@@ -1,0 +1,26 @@
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe.config
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe.manifest
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.application
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.pdb
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.Form1.resources
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.csproj.GenerateResource.Cache
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.exe.manifest
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.application
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.exe
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.pdb
+C:\Users\KimMan\Desktop\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.csprojResolveAssemblyReference.cache
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe.config
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.exe
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.pdb
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe.manifest
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.application
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.exe
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\bin\Debug\quanly.pdb
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.Form1.resources
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.exe.manifest
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.application
+G:\Desktop backup\Quanlykhachhang\quanly\quanly\obj\Debug\quanly.csprojResolveAssemblyReference.cache
